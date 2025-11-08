@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   Eye, EyeOff, Heading1, Heading2, Heading3, Bold, Italic, List, Code, Table, FilePlus
 } from 'lucide-react';

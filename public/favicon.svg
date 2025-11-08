@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fondo del documento -->
+  <rect x="20" y="15" width="60" height="75" rx="3" fill="#255957" stroke="#1e4543" stroke-width="2"/>
+  
+  <!-- Líneas de texto -->
+  <line x1="30" y1="30" x2="70" y2="30" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="40" x2="70" y2="40" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="50" x2="65" y2="50" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="60" x2="70" y2="60" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Pluma/lápiz -->
+  <path d="M 75 25 L 85 15 L 90 20 L 80 30 Z" fill="#ffd700" stroke="#ffa500" stroke-width="1.5"/>
+  <circle cx="87" cy="18" r="2" fill="#ffa500"/>
+</svg>

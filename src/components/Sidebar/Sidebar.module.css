@@ -1,0 +1,22 @@
+.sidebarMenu{
+  padding: 15px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+}
+
+.btnMenu{
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  transition: all 0.2s;
+}
+
+.btnMenu:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+

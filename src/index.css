@@ -1,0 +1,18 @@
+:root {
+  --color-primary: #255957;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  overflow: hidden;
+}
+
+.title-app{
+  color: var(--color-primary)
+}

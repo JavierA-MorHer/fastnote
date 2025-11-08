@@ -1,0 +1,22 @@
+.menuItem{
+  padding: 10px 15px;
+  cursor: pointer;
+  white-space: nowrap;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.menuItem:hover{
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+
+.menuItem.button {
+  font-weight: 600;
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+
+.menuItem.button:hover {
+  background-color: #1e4543;
+}
